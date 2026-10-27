@@ -1,6 +1,5 @@
 #  create a Command-Line Calculator with python 
 
-#  
 def get_number(number):
     while True:
         try:
