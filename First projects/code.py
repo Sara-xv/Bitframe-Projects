@@ -68,8 +68,8 @@ if __name__ == "__main__":
 
 
 '''
-با ارسال کد به هوش مصنوعی 
-یک کد بهینه تر دریافت کردم 
+با ارسال کد به  هوش مصنوعی یک کد بهینه تر دریافت کردم 
+By sending the code to AI, I received a more optimized version of the code
 '''
 # code:
 
