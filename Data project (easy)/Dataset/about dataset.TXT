@@ -1,0 +1,15 @@
+HR Employee Performance Dataset
+
+This dataset is an artificially generated dataset created with the assistance of Artificial Intelligence (AI) for educational and analytical purposes. It contains 30,000 rows and 21 columns representing employee demographics, job information, salaries, performance ratings, job satisfaction, work-life balance, training, absenteeism, promotions, and employee attrition.
+
+The data was designed to simulate realistic workplace patterns and relationships between HR metrics. It includes controlled missing values, unusual observations, unique employee IDs, and employment dates to support practical data analysis and data-cleaning exercises.
+
+Dataset Details
+- Domain: Human Resources (HR Analytics)
+- Records: 30,000 employees
+- Features: 21 columns
+- Format: CSV
+- Data Source: AI-generated synthetic data
+- Intended Use: Data cleaning, exploratory data analysis (EDA), SQL practice, statistical analysis, visualization, and HR analytics projects.
+
+Disclaimer: This dataset does not contain real employee records. All data is synthetic and was generated using AI-assisted methods. Although designed to resemble realistic HR data, it does not represent any actual organization or workforce. The dataset is intended for educational, research, and portfolio development purposes only.
